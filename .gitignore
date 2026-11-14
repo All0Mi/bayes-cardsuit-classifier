@@ -1,0 +1,26 @@
+# Course-provided data (not to be redistributed) and assignment sheet
+train.txt
+test.txt
+epart_l2.pdf
+
+# MATLAB / Octave
+*.asv
+*.m~
+octave-workspace
+*.mex*
+slprj/
+codegen/
+
+# LaTeX build artifacts (keep report/report.tex and report/report.pdf only)
+report/*.aux
+report/*.log
+report/*.out
+report/*.toc
+report/*.fls
+report/*.fdb_latexmk
+report/*.synctex.gz
+report/*.zip
+
+# OS cruft
+.DS_Store
+Thumbs.db
